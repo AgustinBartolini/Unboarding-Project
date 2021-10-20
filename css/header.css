@@ -1,0 +1,15 @@
+header {
+    background-color: #A2D2FF;
+    display: flex;   
+    flex-wrap: wrap;
+}
+.logo {
+ width: 25%;
+ 
+}
+
+.slogan {
+    text-align: center;
+    justify-content: center;
+    
+}
