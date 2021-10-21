@@ -1,10 +1,25 @@
-main{
-    background-color: #e8f6ef;
-    
 
+
+#avatares-equipo {
+    margin:5%;
+    display:flex;
+    justify-content: space-between;
 }
 
-.avatares{
-    width:20%;
-    height: 20%;
+.usuario{
+    width: 20%;
+}
+
+.fondo-nombre{
+    background-color: #90AACB;
+    border-radius: 20%;
+    height: 10%;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.nombre-usuario{
+    font-size: 36px;
+    color: white;
 }

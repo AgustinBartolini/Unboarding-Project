@@ -1,2 +1,6 @@
 @import url(./header.css);
 @import url(./main.css);
+
+body{
+    background-color: #e8f6ef;
+}
