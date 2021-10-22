@@ -1,0 +1,1 @@
+Este repositorio se creó con el fin de diseñar una website estática para una empresa privada de uso interno
